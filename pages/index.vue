@@ -21,7 +21,7 @@
         <img src="~/assets/img/pattern.png" class="md:inline-block inline-block w-1/2 absolute md:right-0 md:top-0 blur-3xl opacity-50" alt="socleanbot">
         <img src="~/assets/img/pattern.png" class="inline-block md:w-1/2 w-full absolute md:left-0 md:-bottom-48 md:rotate-90 -right-24 md:blur-3xl blur-lg opacity-60 bottom-0" alt="socleanbot">
         <div class="text-center relative">
-          <img src="~/assets/img/robot.png" class="inline-block md:w-3/4 w-full absolute md:-left-72 left-0 md:-top-24 -top-32" alt="socleanbot">
+          <img src="~/assets/img/robot.png" class="inline-block md:w-3/4 w-full absolute md:-left-72 left-0 md:-top-24 -bottom-96 mt-24" alt="socleanbot">
           <form @submit.prevent="login($event)" class="rounded-xl md:w-3/4 w-full p-12 relative bg-black/40 shadow backdrop-blur-2xl md:left-32 md:top-0 top-32 text-left space-y-6">
             <div class="mb-6">
               <h1 class="text-4xl mb-4 font-bold">Login</h1>
