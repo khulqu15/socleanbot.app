@@ -14,7 +14,7 @@
               <img src="~/assets/img/avatar.png" class="w-1/2" alt="Avatar">
             </div>
           </label>
-          <ul tabindex="0" class="dropdown-content menu p-2 shadow bg-black/10 rounded-box w-52">
+          <ul tabindex="0" class="dropdown-content menu p-2 shadow bg-black/70 backdrop-blur-2xl rounded-box w-52">
             <li><NuxtLink href="/profile">Profile</NuxtLink></li>
             <li><NuxtLink href="/">Logout</NuxtLink></li>
           </ul>
