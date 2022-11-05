@@ -16,11 +16,7 @@
     "sass-loader": "10.1.1"
   },
   "dependencies": {
-    "@nuxtjs/composition-api": "^0.33.1",
     "@pinia/nuxt": "^0.4.3",
-    "firebase": "^9.13.0",
-    "firebase-admin": "^11.2.0",
-    "firebase-functions": "^4.0.2",
     "pinia": "^2.0.23"
   }
 }
